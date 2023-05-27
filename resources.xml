@@ -130,4 +130,8 @@
         <Key>streaming/magnet.ogg</Key>
         <Size>2519563</Size>
     </Contents>
+    <Contents>
+        <Key>streaming/wait.mus</Key>
+        <Size>1845255</Size>
+    </Contents>
 </ResourceList>

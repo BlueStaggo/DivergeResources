@@ -13,7 +13,7 @@ Write-Output @"
     </Attribution>
 "@
 
-Get-ChildItem *.ogg -Recurse -File | ForEach-Object { Write-Output @"
+Get-ChildItem -Recurse -Include *.ogg,*.mus -File | ForEach-Object { Write-Output @"
     <Contents>
         <Key>$((Resolve-Path $_ -Relative).Substring(2).Replace("\", "/"))</Key>
         <Size>$($_.Length)</Size>
