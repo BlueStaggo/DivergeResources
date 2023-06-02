@@ -107,6 +107,26 @@
         <Size>11872</Size>
     </Contents>
     <Contents>
+        <Key>newsound/random/drink.ogg</Key>
+        <Size>7734</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/random/eat1.ogg</Key>
+        <Size>5678</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/random/eat2.ogg</Key>
+        <Size>5677</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/random/eat3.ogg</Key>
+        <Size>5813</Size>
+    </Contents>
+    <Contents>
+        <Key>newsound/random/richochet.ogg</Key>
+        <Size>12709</Size>
+    </Contents>
+    <Contents>
         <Key>newsound/random/wand.ogg</Key>
         <Size>31912</Size>
     </Contents>
