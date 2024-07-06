@@ -2,7 +2,7 @@
 
 shopt -s globstar
 
-echo "<?xml version="1.0" encoding="UTF-8" standalone="yes"?>"
+echo '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>'
 echo "  <ResourceList>"
 echo "  <Name>Minecraft_Diverge_Beta_Rework_Resources</Name>"
 echo "  <Attribution>"
