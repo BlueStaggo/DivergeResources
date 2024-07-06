@@ -1,0 +1,10 @@
+The majority of the assets in Minecraft Diverge's resource
+repository has been made by other people.
+The audio here is (hopefully) under fair use.
+I am not a lawyer and I do not know how this stuff works:
+I am just some random guy on the internet making a mod for fun.
+
+SOUND ATTRIBUTION
+
+Wind Ambience (Looping) by jackyyang09 -- https://freesound.org/s/476849/ -- License: Attribution 4.0
+Vent - wind (1).wav by Glaneur de sons -- https://freesound.org/s/104952/ -- License: Attribution 4.0
