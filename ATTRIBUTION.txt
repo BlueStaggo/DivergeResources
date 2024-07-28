@@ -6,5 +6,17 @@ I am just some random guy on the internet making a mod for fun.
 
 SOUND ATTRIBUTION
 
-Wind Ambience (Looping) by jackyyang09 -- https://freesound.org/s/476849/ -- License: Attribution 4.0
-Vent - wind (1).wav by Glaneur de sons -- https://freesound.org/s/104952/ -- License: Attribution 4.0
+dvsound/ambient/birds.ogg: morning_in_the_forest_2007_04_15.wav by reinsamba -- https://freesound.org/s/33827/ -- License: Attribution 4.0
+dvsound/ambient/cavechimes.ogg: wind chimes.wav by offthesky -- https://freesound.org/s/35722/ -- License: Attribution 4.0
+dvsound/ambient/crickets.ogg: AMBIENT LOOP - Perfectly Clear - Wilderness Hillside - FILTERED.mp3 by Arctura -- https://freesound.org/s/39829/ -- License: Attribution 3.0
+dvsound/ambient/ocean.ogg: oceanwavescrushing.wav by Luftrum -- https://freesound.org/s/48412/ -- License: Attribution 4.0
+dvsound/ambient/wind.ogg: Wind Ambience (Looping) by jackyyang09 -- https://freesound.org/s/476849/ -- License: Attribution 4.0
+dvsound/ambient/wind.ogg: Vent - wind (1).wav by Glaneur de sons -- https://freesound.org/s/104952/ -- License: Attribution 4.0
+
+MUSIC ATTRIBUTION
+
+dvmusic/cave1.ogg: Flake by C418 (Minecraft - Volume Beta) -- https://c418.bandcamp.com/track/flake
+dvmusic/cave2.ogg: Excuse by C418 (Minecraft - Volume Alpha) -- https://c418.bandcamp.com/track/flake
+dvmusic/cave3.ogg: Droopy likes your face by C418 (Minecraft - Volume Alpha) -- https://c418.bandcamp.com/track/droopy-likes-your-face-2
+dvmusic/cave4.ogg: magma by noski -- https://www.youtube.com/watch?v=3pUtkV9Vz_o
+dvmusic/cave5.ogg: heyhey by C418 (little things) -- https://c418.bandcamp.com/track/heyhey
