@@ -15,8 +15,8 @@ dvsound/ambient/wind.ogg: Vent - wind (1).wav by Glaneur de sons -- https://free
 
 MUSIC ATTRIBUTION
 
-dvmusic/cave1.ogg: Flake by C418 (Minecraft - Volume Beta) -- https://c418.bandcamp.com/track/flake
-dvmusic/cave2.ogg: Excuse by C418 (Minecraft - Volume Alpha) -- https://c418.bandcamp.com/track/flake
-dvmusic/cave3.ogg: Droopy likes your face by C418 (Minecraft - Volume Alpha) -- https://c418.bandcamp.com/track/droopy-likes-your-face-2
-dvmusic/cave4.ogg: magma by noski -- https://www.youtube.com/watch?v=3pUtkV9Vz_o
-dvmusic/cave5.ogg: heyhey by C418 (little things) -- https://c418.bandcamp.com/track/heyhey
+dvmusic/cave/flake.ogg: Flake by C418 (Minecraft - Volume Beta) -- https://c418.bandcamp.com/track/flake
+dvmusic/cave/excuse.ogg: Excuse by C418 (Minecraft - Volume Alpha) -- https://c418.bandcamp.com/track/flake
+dvmusic/cave/droopylikesyourface.ogg: Droopy likes your face by C418 (Minecraft - Volume Alpha) -- https://c418.bandcamp.com/track/droopy-likes-your-face-2
+dvmusic/cave/magma.ogg: magma by noski -- https://www.youtube.com/watch?v=3pUtkV9Vz_o
+dvmusic/cave/heyhey.ogg: heyhey by C418 (little things) -- https://c418.bandcamp.com/track/heyhey

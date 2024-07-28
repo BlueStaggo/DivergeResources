@@ -19,32 +19,32 @@
     
     MUSIC ATTRIBUTION
     
-    dvmusic/cave1.ogg: Flake by C418 (Minecraft - Volume Beta) -- https://c418.bandcamp.com/track/flake
-    dvmusic/cave2.ogg: Excuse by C418 (Minecraft - Volume Alpha) -- https://c418.bandcamp.com/track/flake
-    dvmusic/cave3.ogg: Droopy likes your face by C418 (Minecraft - Volume Alpha) -- https://c418.bandcamp.com/track/droopy-likes-your-face-2
-    dvmusic/cave4.ogg: magma by noski -- https://www.youtube.com/watch?v=3pUtkV9Vz_o
-    dvmusic/cave5.ogg: heyhey by C418 (little things) -- https://c418.bandcamp.com/track/heyhey
+    dvmusic/cave/flake.ogg: Flake by C418 (Minecraft - Volume Beta) -- https://c418.bandcamp.com/track/flake
+    dvmusic/cave/excuse.ogg: Excuse by C418 (Minecraft - Volume Alpha) -- https://c418.bandcamp.com/track/flake
+    dvmusic/cave/droopylikesyourface.ogg: Droopy likes your face by C418 (Minecraft - Volume Alpha) -- https://c418.bandcamp.com/track/droopy-likes-your-face-2
+    dvmusic/cave/magma.ogg: magma by noski -- https://www.youtube.com/watch?v=3pUtkV9Vz_o
+    dvmusic/cave/heyhey.ogg: heyhey by C418 (little things) -- https://c418.bandcamp.com/track/heyhey
 
   </Attribution>
   <Contents>
-    <Key>dvmusic/cave1.ogg</Key>
-    <Size>3285128</Size>
-  </Contents>
-  <Contents>
-    <Key>dvmusic/cave2.ogg</Key>
-    <Size>1804827</Size>
-  </Contents>
-  <Contents>
-    <Key>dvmusic/cave3.ogg</Key>
+    <Key>dvmusic/cave/droopylikesyourface.ogg</Key>
     <Size>1500100</Size>
   </Contents>
   <Contents>
-    <Key>dvmusic/cave4.ogg</Key>
-    <Size>1801024</Size>
+    <Key>dvmusic/cave/excuse.ogg</Key>
+    <Size>1804827</Size>
   </Contents>
   <Contents>
-    <Key>dvmusic/cave5.ogg</Key>
+    <Key>dvmusic/cave/flake.ogg</Key>
+    <Size>3285128</Size>
+  </Contents>
+  <Contents>
+    <Key>dvmusic/cave/heyhey.ogg</Key>
     <Size>2404945</Size>
+  </Contents>
+  <Contents>
+    <Key>dvmusic/cave/magma.ogg</Key>
+    <Size>1801024</Size>
   </Contents>
   <Contents>
     <Key>dvsound/ambient/birds.ogg</Key>
