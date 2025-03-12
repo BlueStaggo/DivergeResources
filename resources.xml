@@ -14,9 +14,10 @@
     dvsound/ambient/cavechimes.ogg: wind chimes.wav by offthesky -- https://freesound.org/s/35722/ -- License: Attribution 4.0
     dvsound/ambient/crickets.ogg: AMBIENT LOOP - Perfectly Clear - Wilderness Hillside - FILTERED.mp3 by Arctura -- https://freesound.org/s/39829/ -- License: Attribution 3.0
     dvsound/ambient/ocean.ogg: oceanwavescrushing.wav by Luftrum -- https://freesound.org/s/48412/ -- License: Attribution 4.0
+    dvsound/ambient/sparkle1-3.ogg: Glossy.wav by opticaillusions -- https://freesound.org/s/614868/ -- License: Creative Commons 0
     dvsound/ambient/wind.ogg: Wind Ambience (Looping) by jackyyang09 -- https://freesound.org/s/476849/ -- License: Attribution 4.0
     dvsound/ambient/wind.ogg: Vent - wind (1).wav by Glaneur de sons -- https://freesound.org/s/104952/ -- License: Attribution 4.0
-    dvsound/ambient/sparkle1-3.ogg: Glossy.wav by opticaillusions -- https://freesound.org/s/614868/ -- License: Creative Commons 0
+    dvsound/random/jingle.ogg: Sleigh Bells 154BPM.wav by JustinAmolsch -- https://freesound.org/s/547582/ -- License: Attribution 3.0
     
     MUSIC ATTRIBUTION
     
@@ -65,15 +66,15 @@
   </Contents>
   <Contents>
     <Key>dvsound/ambient/sparkle1.ogg</Key>
-    <Size>62572</Size>
+    <Size>45907</Size>
   </Contents>
   <Contents>
     <Key>dvsound/ambient/sparkle2.ogg</Key>
-    <Size>66575</Size>
+    <Size>47185</Size>
   </Contents>
   <Contents>
     <Key>dvsound/ambient/sparkle3.ogg</Key>
-    <Size>78025</Size>
+    <Size>53986</Size>
   </Contents>
   <Contents>
     <Key>dvsound/ambient/wind.ogg</Key>
@@ -102,5 +103,9 @@
   <Contents>
     <Key>dvsound/random/flint.ogg</Key>
     <Size>6418</Size>
+  </Contents>
+  <Contents>
+    <Key>dvsound/random/jingle.ogg</Key>
+    <Size>26496</Size>
   </Contents>
 </ResourceList>
