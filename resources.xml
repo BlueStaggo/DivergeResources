@@ -16,6 +16,7 @@
     dvsound/ambient/ocean.ogg: oceanwavescrushing.wav by Luftrum -- https://freesound.org/s/48412/ -- License: Attribution 4.0
     dvsound/ambient/wind.ogg: Wind Ambience (Looping) by jackyyang09 -- https://freesound.org/s/476849/ -- License: Attribution 4.0
     dvsound/ambient/wind.ogg: Vent - wind (1).wav by Glaneur de sons -- https://freesound.org/s/104952/ -- License: Attribution 4.0
+    dvsound/ambient/sparkle1-3.ogg: Glossy.wav by opticaillusions -- https://freesound.org/s/614868/ -- License: Creative Commons 0
     
     MUSIC ATTRIBUTION
     
@@ -61,6 +62,18 @@
   <Contents>
     <Key>dvsound/ambient/ocean.ogg</Key>
     <Size>671068</Size>
+  </Contents>
+  <Contents>
+    <Key>dvsound/ambient/sparkle1.ogg</Key>
+    <Size>62572</Size>
+  </Contents>
+  <Contents>
+    <Key>dvsound/ambient/sparkle2.ogg</Key>
+    <Size>66575</Size>
+  </Contents>
+  <Contents>
+    <Key>dvsound/ambient/sparkle3.ogg</Key>
+    <Size>78025</Size>
   </Contents>
   <Contents>
     <Key>dvsound/ambient/wind.ogg</Key>
